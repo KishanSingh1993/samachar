@@ -2,7 +2,7 @@ package com.kishan.samachar.utils
 
 object AppConstants {
 
-    const val API_KEY = "e98302103c954996a47a9ecacd3331ef"
+    const val API_KEY = ""
 
     const val DEFAULT_COUNTRY_CODE = "IN"
 
